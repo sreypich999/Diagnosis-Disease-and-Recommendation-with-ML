@@ -1,89 +1,96 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#f7a41d;">Vey Sreypich</span></h1>
-<h3 align="center">🎓 Student | 🤖 Machine Learning Explorer | 🇰🇭 Khmer AI Advocate</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7971D&center=true&vCenter=true&width=500&lines=🚀 Building+AI+Projects+in+Khmer;🧠 Learning+ML+%26+DL+from+Scratch;📚 Sharing+Projects+%26+Knowledge;👩‍💻 Python+%7C+CV+%7C+NLP" alt="Typing SVG" />
+  <img src="https://github.com/VeySreypich/VeySreypich/assets/your-banner-image" alt="banner" style="border-radius:10px;" />
 </p>
 
+<h1 align="center">Hey there 👋, I'm <span style="color:#f7a41d;">Vey Sreypich</span></h1>
+<h3 align="center">👩‍💻 AI Enthusiast | 🇰🇭 Khmer Language Tech Explorer | 🧠 ML/DL Student</h3>
+
+---
+
+<!-- Typing effect -->
 <p align="center">
-  <img src="https://media.tenor.com/a9Fh7y9FvCEAAAAC/coding.gif" width="250" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=550&lines=Learning+Machine+Learning+and+AI+from+Scratch;Building+Khmer+Language+AI+Models;Working+on+Computer+Vision+and+NLP+Projects;Sharing+My+Journey+Through+Code" />
+</p>
+
+<!-- Short bio -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <strong>Welcome to my digital playground!</strong>  
+  <br>
+  I'm deeply passionate about AI for Khmer language, deep learning, and open source projects. I enjoy building from scratch to learn deeply.
+</div>
+
+---
+
+### 🧠 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit-learn,matplotlib,seaborn,opencv,jupyter,vscode,git,github" />
 </p>
 
 ---
 
-### 💡 About Me
+### ⚡ Current Projects
 
-- 🎓 Student with a passion for **machine learning and Khmer AI**
-- 💻 Currently working on: **Khmer Character Recognition OCR project**
-- 🧠 I love to build ML models from scratch to **understand algorithms deeply**
-- 🧾 Focused on **low-resource languages**, **deep learning**, and **text/image processing**
-- ✨ Dreaming of building Khmer-first AI tools for education & research
+| 💼 Project | 🧠 Description |
+|-----------|----------------|
+| **Khmer Character Recognition** | OCR using CV & CNNs for handwritten Khmer |
+| **ML from Scratch** | Building ML models like regression, KNN, and CNN from the ground up |
+| **Khmer NLP Toolkit** *(in progress)* | Creating a text preprocessing pipeline for Khmer |
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,scikit-learn,tensorflow,keras,jupyter,vscode,git,github,linux" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VeySreypich&show_icons=true&theme=radical&hide_title=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VeySreypich&theme=radical" width="48%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeySreypich&layout=compact&theme=radical&langs_count=8" width="48%"/>
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VeySreypich&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VeySreypich&theme=darkhub&no-bg=true&row=1&margin-w=10" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🎯 Learning Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeySreypich&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeySreypich&theme=tokyonight" width="48%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeySreypich&layout=compact&theme=tokyonight" width="50%" />
-</p>
+- ✅ Deep learning with PyTorch
+- ✅ Vector search & embeddings
+- ✅ Custom OCR training for Khmer
+- ✅ Transformers & fine-tuning LLMs for Khmer language
 
 ---
 
-### 🌱 Currently Learning
-
-- 🧠 Deep Learning with PyTorch & TensorFlow
-- 🔡 Khmer NLP & text embedding models
-- 🖼 Image Preprocessing and Augmentation
-- 🤖 Fine-tuning Transformers for local language tasks
-
----
-
-### 📌 Featured Project
-
-> **Khmer Character Recognition** – Generating & training on handwritten Khmer digits using Python + CV.
-
-<p align="center">
-  <img src="https://github.com/VeySreypich/khmer-character-recognition/raw/main/demo/ក_18_2.png" width="80px">
-  <img src="https://github.com/VeySreypich/khmer-character-recognition/raw/main/demo/គ_25_-2.png" width="80px">
-  <img src="https://github.com/VeySreypich/khmer-character-recognition/raw/main/demo/ឈ_13_5.png" width="80px">
-</p>
-
----
-
-### 📫 Connect with Me
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="mailto:veysreypich@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/VeySreypich"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/VeySreypich"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔥 Profile Views
+### 🌟 Featured Khmer Characters from My Dataset
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VeySreypich&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://github.com/VeySreypich/khmer-character-recognition/raw/main/demo/ក_18_2.png" width="70px">
+  <img src="https://github.com/VeySreypich/khmer-character-recognition/raw/main/demo/គ_25_-2.png" width="70px">
+  <img src="https://github.com/VeySreypich/khmer-character-recognition/raw/main/demo/ឈ_13_5.png" width="70px">
 </p>
 
+---
+
 <p align="center">
-  🧡 *If you like my projects, consider giving them a ⭐ — it motivates me to keep building!*  
+  <img src="https://komarev.com/ghpvc/?username=VeySreypich&style=flat-square&color=brightgreen" />
+  <br>
+  ⭐️ If you like what I do, support me by starring my projects!
 </p>
